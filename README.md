@@ -18,8 +18,8 @@
     ![Visual of the last parts of Step 4.](https://github.com/user-attachments/assets/3c431943-72f0-4557-b518-1b411fd80597)
 
 5. You should now have a second Among Us in your library. You'll know if it's the one you added because the logo and background in it are bland. You may customize this to your liking using images and opening its Properties menu to change the name and icon. I recommend using SteamGridDB for this. Now, see below.
-## [Town Of Us R](https://github.com/eDonnes124/Town-Of-Us-R/releases/latest)
-1. Open the proper link above and download the .zip file. (In this case, it's ToU.v5.1.1.zip. Do not download the source code.)
+## [Town Of Us R](https://github.com/eDonnes124/Town-Of-Us-R/releases/latest), [The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/latest) or [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU/releases/latest)
+1. Open the proper link above and download the .zip file. (In this image's case, it's ToU.v5.1.1.zip. Do not download the source code.)
 
     ![Visual instructions for Step 1.](https://github.com/user-attachments/assets/56fbca46-6804-4f67-92ce-f9f8281a32aa)
 
