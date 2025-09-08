@@ -1,5 +1,5 @@
-# How to Install Among Us Mods
-## Making a Modded Instance (Preparation)
+# How to Install/Update Among Us Mods
+## Making a Modded Instance (Preparation) | Skip if you're updating
 1. Go to your Steam Library. Right click Among Us on the left side, and navigate to Manage → Browse local files.
 
     ![Visual instructions for navigating Step 1.](https://github.com/user-attachments/assets/44a8630c-49ff-4da6-bea3-437035bc4798)
@@ -14,31 +14,31 @@
 
 4. Select `Browse...` and navigate to the modded folder you made in Step 2. Open said folder, and select Among Us.exe (or just Among Us if you can't see file extensions). After 'opening' it, it should be auto-selected in the Steam "Add a Game" menu. You may now press `Add Selected Programs`.
 
-    ![Visual instructions for Step 4. Does not include the last two sentences.](https://github.com/user-attachments/assets/b2b252fc-0a21-48bf-a955-1122b729bbb3)
-    ![Visual of the last parts of Step 4.](https://github.com/user-attachments/assets/3c431943-72f0-4557-b518-1b411fd80597)
+    <img width="875" height="812" title="Visual of Step 4, window 1." src="https://github.com/user-attachments/assets/bc86b86d-3cd9-452b-98f9-380bc61c3405"/>
+    <img width="1180" height="626" title="Visual of Step 4, window 2." src="https://github.com/user-attachments/assets/9152f833-01f8-48d2-8d96-0397b16c6352"/>
+    <img width="875" height="812" title="Visual of Step 4, window 3." src="https://github.com/user-attachments/assets/4d7cf8a1-04e3-47c2-9590-ec05e7baf82f"/>
 
-5. You should now have a second Among Us in your library. You'll know if it's the one you added because the logo and background in it are bland. You may customize this to your liking using images and opening its Properties menu to change the name and icon. I recommend using SteamGridDB for this. Now, see below.
-## [Town Of Us R](https://github.com/eDonnes124/Town-Of-Us-R/releases/latest), [The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/latest) or [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU/releases/latest)
-1. Open the proper link above and download the .zip file. (In this image's case, it's ToU.v5.1.1.zip. Do not download the source code.)
+5. You should now have a second Among Us in your library. You'll know if it's the one you added because the logo and background in it are bland. You may customize this to your liking using images and opening its Properties menu to change the name and icon. I recommend using [SteamGridDB](https://www.steamgriddb.com/) for this. Now, see below.
+## [Town Of Us: Mira](https://github.com/AU-Avengers/TOU-Mira/releases/latest)
+1. Open the proper link above and download the proper ZIP file (indicated by the names of each) If you are updating to a new version, download the DLL files.
 
-    ![Visual instructions for Step 1.](https://github.com/user-attachments/assets/56fbca46-6804-4f67-92ce-f9f8281a32aa)
+    <img width="1520" height="456" title="Visual instructions for Step 1." src="https://github.com/user-attachments/assets/cedfb8bb-0b65-47f3-a9df-30ca2f56e4af" />
 
-2. Navigate to the downloaded file. This is usually in Downloads.
-3. Click the file, right click it, and select Extract Here. (If you're on Windows 11, you may have a button that does the same thing. Use that.)
+2. Navigate to the downloaded file(s). This is usually in Downloads on your PC.
+3. Click the ZIP file, right click it, and select Extract Here / Extract All. If you downloaded the DLL files and are updating your modded game, go to the Submerged section and see Step 2 onwards, replacing every mention of Submerged.dll with the DLL files you have.
 4. Open the folder. (You may need to open the sub-folder if it's a repeat of the name.) Select all of the contents and copy (or cut) them. Paste them into the folder you made in the previous section.
 
     ![End result of Step 4.](https://github.com/user-attachments/assets/7f306847-b82c-4ada-a2d2-5f12870372fb)
-
-    See below.
 ## [Submerged](https://github.com/SubmergedAmongUs/Submerged/releases/latest)
-1. Open the proper link above and download the .dll file.
+1. Open the proper link above and download the DLL file.
 
     ![Visual of Step 1.](https://github.com/user-attachments/assets/96a71475-72d6-4407-b2b4-fa2fd722a519)
 
-2. Find your modded folder. Once opened, navigate to BepInEx → Plugins. If Submerged.dll is already inside that folder, then you are already done and may delete the file you downloaded. Otherwise, proceed to step 3.
-3. Select the Submerged.dll file you downloaded and copy/cut it. Then, navigate back to your modded folder and into BepInEx/Plugins, pasting it into the folder.
+2. Select the Submerged.dll file you downloaded and copy/cut it. Find your modded folder.
+3. Once opened, navigate to BepInEx → Plugins. Paste the DLL file into the folder. If it requests for permission to replace a file, agree to it.
 
-    ![End result of Step 3.](https://github.com/user-attachments/assets/5f0cb752-32e2-4ba8-9518-4518f8072ffc)
+    <img width="751" height="196" title="End result of Step 3." src="https://github.com/user-attachments/assets/0edcce94-9265-4c26-a51d-2686764b938a" />
+
 
     You are finished installing your Among Us Mods. See below for launching your game.
 ## Launching your Modded Among Us Instance
