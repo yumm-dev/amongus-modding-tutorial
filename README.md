@@ -47,3 +47,13 @@ Select the modded Among Us duplicate you made in Section 1 and press the Play Bu
 (Note: After launching modded AU successfully for the first time, subsequent launches will be much faster. This is normal, because the first launch is setting up all of the mods for the first time, so it preps everything.)
 
 ![The finished result.](https://github.com/user-attachments/assets/1c1169ef-20dc-43bd-b370-1f39c9d0dead)
+
+## Extra: Downgrading Your Among Us Version
+In the case that Among Us has updated, 9 times out of 10, the mods will not work with the new version out of the box. If an update to the mod for fixing this issue is not yet released, and you have not already made your Among Us instance, you will have to downgrade your Among Us version before you can get the mods to work.
+1. Navigate to your Steam Library. Right click on Among Us (or press the gear icon on its library page), and press Properties.
+
+    <img width="253" height="236" title="Visual of Step 1. Notice the gear icon on the menu used to open the submenu." src="https://github.com/user-attachments/assets/ce6f0e10-d756-4975-b857-f00b63f9f542"/>
+
+2. In the Properties menu, press Betas on the sidebar, then select the Beta Participation dropdown menu and select `public-previous`. Once that finishes downgrading, follow the guide as normal.
+
+    <img width="1053" height="752" title="Instructions for Step 2. If this solution doesn't work, try using the 'public-beta' branch instead." src="https://github.com/user-attachments/assets/1f47727a-f385-4a46-8798-1774f458ebc5"/>
