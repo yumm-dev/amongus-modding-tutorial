@@ -20,7 +20,7 @@
 
 5. You should now have a second Among Us in your library. You'll know if it's the one you added because the logo and background in it are bland. You may customize this to your liking using images and opening its Properties menu to change the name and icon. I recommend using [SteamGridDB](https://www.steamgriddb.com/) for this. Now, see below.
 ## [Town Of Us: Mira](https://github.com/AU-Avengers/TOU-Mira/releases/latest)
-1. Open the proper link above and download the proper ZIP file (indicated by the names of each) If you are updating to a new version, download the DLL files.
+1. Open the link above and download the proper ZIP file (indicated by the names of each) If you are updating to a new version, download the DLL files.
 
     <img width="1520" height="456" title="Visual instructions for Step 1." src="https://github.com/user-attachments/assets/cedfb8bb-0b65-47f3-a9df-30ca2f56e4af" />
 
